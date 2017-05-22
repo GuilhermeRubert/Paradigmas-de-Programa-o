@@ -1,3 +1,4 @@
+//executado em linux 64 bits
 #include <iostream>
 #include <string>
 #include <vector>
